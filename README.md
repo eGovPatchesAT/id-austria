@@ -20,6 +20,7 @@
     5. [Wie kann ich überprüfen ob eine heruntergeladene APK ein Original ist und nicht mit Schadware verseucht wurde?](#fragen-5)
     6. [Die E-Ausweis App funktioniert nicht](#fragen-6)
     7. [Die FinanzOnline App funktioniert nicht](#fragen-7)
+    8. [Weitere Fragen](#fragen-8)
 
 # Ohne Root
 
@@ -310,3 +311,9 @@ Hier wählt ihr nun die Domain aus und tippt auf "Hinzufügen / Add":
 
 
 Fertig, ihr solltet nun die FinanzOnline App benutzen können.
+
+<div id="fragen-8" />
+
+## Weitere Fragen
+
+Bei Problemen, oder weiteren Fragen kann [diese](https://github.com/orgs/eGovPatchesAT/discussions) Diskussion genutzt werden.
