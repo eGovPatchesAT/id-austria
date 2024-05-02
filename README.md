@@ -1,4 +1,4 @@
-# ID Austria / Digitales Amt mit Root und/oder entsperrtem Bootloader nutzen
+# Digitales Amt mit Root und/oder entsperrtem Bootloader nutzen
 
 1. [Ohne Root](#ohne-root)
     1. [Schritt 1: APK downloaden/extrahieren](#schritt1-1)
